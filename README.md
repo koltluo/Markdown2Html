@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://md.weiyan.dev">
+<a href="https://md.nav8.top">
 <img width="500" src="./screenshot.png"/>
 </a>
 </div>
@@ -15,8 +15,8 @@ Fork 自 [markdown2html](https://github.com/TaleAi/markdown2html)，略有调整
 - 支持 html 转 markdwon
 - 支持导出 pdf 和 markdown
 - 欢迎在线使用：
-  - https://md.weiyan.cc/
-  - https://md.bioitee.com/
+  - https://md.nav8.top/
+
 
 ## 主题
 
