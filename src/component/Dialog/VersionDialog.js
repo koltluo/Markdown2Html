@@ -36,7 +36,7 @@ class VersionDialog extends Component {
 
   handleDocs = () => {
     const w = window.open("about:blank");
-    w.location.href = "https://github.com/shenweiyan/Markdown2Html";
+    w.location.href = "https://github.com/koltluo/Markdown2Html";
   };
 
   componentDidMount = async () => {
@@ -46,8 +46,8 @@ class VersionDialog extends Component {
         versionNumber: "1.0.0",
         versionTimeline: ["2023-09-20 增加网格黑主题", "2023-09-14 解决超链接文字复制到公众号颜色失效的问题", "2023-09-01 优化部分配置与信息", "2023-08-30 Fork 自 markdown2html"],
         recommend: {
-          link: "https://github.com/shenweiyan/Knowledge-Garden",
-          mainInfo: "欢迎关注我的知识花园",
+          link: "https://nav8.top",
+          mainInfo: "欢迎关注我的主页",
         },
         specialInfo: ''
         //specialInfo:
@@ -85,7 +85,7 @@ class VersionDialog extends Component {
                   id="more-info"
                   style={{fontWeight: "bold", borderBottom: "solid"}}
                   alt=""
-                  href="https://github.com/shenweiyan/Markdown2Html"
+                  href="https://github.com/koltluo/Markdown2Html"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
@@ -111,7 +111,7 @@ class VersionDialog extends Component {
               id="nice-version-dialog-doc"
               style={{fontWeight: "bold"}}
               alt=""
-              href="https://github.com/shenweiyan/Markdown2Html"
+              href="https://github.com/koltluo/Markdown2Html"
               rel="noopener noreferrer"
               target="_blank"
             >
