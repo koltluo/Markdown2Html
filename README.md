@@ -28,3 +28,4 @@ Fork 自 [markdown2html](https://github.com/TaleAi/markdown2html)，略有调整
 
 - [markdown2html](https://github.com/TaleAi/markdown2html)：markdown2html
 - [markdown nice](https://mdnice.com/)：markdown nice
+- [外贸网址大全](https://nav8.top/)：外贸驿站，「让外贸人不再为找资源而浪费时间！」—— 无论是新手入门，还是资深从业者，外贸驿站都能成为您的得力助手，助您轻松开拓全球市场！
